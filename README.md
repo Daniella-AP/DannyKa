@@ -1,4 +1,5 @@
-## Hey, Eu sou a Daniella Alves (DannyKa01), como vai? 👋👽  
+## Hey, 👋👽 
+## Eu sou a Daniella Alves (DannyKa01), como vai?   
 
 - 💼 Trabalho no BRASAS English Course
 - 🎓 Estudando Java, GIT/GITHub, Analise e Desenvolvimento de Sistemas
@@ -8,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/DannyKa01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DannyKa01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyKa01&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DannyKa01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyKa01&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -17,6 +18,7 @@
    <img align="center" alt="DannyKa01" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" alt="DannyKa01" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <div align="center">
+  <img align="right" alt="DannyKa01" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/98430551/152259578-4eb1da30-a573-4218-b04d-78adfa67e0a2.png">
 </div>
   
   ##
