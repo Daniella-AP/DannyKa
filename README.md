@@ -1,10 +1,9 @@
 ## Hey, 👋👽 
-## Eu sou a Daniella Alves (DannyKa01), como vai?   
+## Eu sou a Daniella Alves (DaniByte), como vai?   
 
-- 💼 Trabalho no BRASAS English Course
-- 🎓 Estudando Java, GIT/GITHub, Analise e Desenvolvimento de Sistemas
+- 💼 Trabalho ataulemten na Criare
+- 🎓 Estudando Angular, GIT/GITHub, Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: dannyrj18@hotmail.com 
-- 😊 Pronouns: Ela/Dela
 - Nesse projeto, eu executei todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
 
 
