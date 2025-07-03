@@ -1,5 +1,5 @@
 ## Hey, 👋👽 
-## Eu sou a Daniella Alves (DaniByte), como vai?   
+## Eu sou a Daniella Pereira, como vai?   
 
 - 💼 Trabalho ataulemten na Criare
 - 🎓 Estudando Angular, GIT/GITHub, Analise e Desenvolvimento de Sistemas
